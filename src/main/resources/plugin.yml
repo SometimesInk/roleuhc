@@ -1,0 +1,7 @@
+name: roleuhc
+version: '${project.version}'
+main: ink.roleuhc.RoleUhc
+commands:
+  start:
+    description: Start a new UHC game
+    usage: /start
